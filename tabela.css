@@ -1,0 +1,16 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td, th {
+    padding: 5px;
+}
+th {
+    text-align: left;
+}
+tr:nth-child(odd) {
+    background-color: #89aaaa;
+}
+#t01 {
+    background-color: #1688a5;
+}
